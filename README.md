@@ -1,1 +1,1 @@
-# tundra-xfce-terminal
+# Tundra for Xfce Terminal
