@@ -1,0 +1,9 @@
+[Scheme]
+Name=Tundra Light
+ColorForeground={base-2}
+ColorBackground={base-7}
+TabActivityColor={red}
+ColorCursor={base-2}
+ColorSelection={base-6}
+ColorPalette={base-0};{dark-red};{dark-green};{dark-vermilion};{dark-blue};{dark-purple};{dark-teal};{base-5};{base-2};{red};{green};{amber};{blue};{purple};{teal};{base-8}
+
