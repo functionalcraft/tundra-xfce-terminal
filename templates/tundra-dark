@@ -5,5 +5,5 @@ ColorBackground={base-1}
 TabActivityColor={red}
 ColorCursor={base-7}
 ColorSelection={base-4}
-ColorPalette={base-0};{red};{green};{orange};{blue};{purple};{teal};{base-5};{base-2};{light-red};{chartreuse};{light-amber};{light-blue};{light-purple};{light-teal};{base-8}
+ColorPalette={base-0};{red};{green};{orange};{blue};{purple};{teal};{base-5};{base-4};{light-red};{chartreuse};{light-amber};{light-blue};{light-purple};{light-teal};{base-8}
 
